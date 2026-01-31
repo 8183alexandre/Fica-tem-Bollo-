@@ -38,7 +38,7 @@
     display: flex;
     margin-top: 20px;
     font-family: 'Poppins', sans-serif;
-       background: url(fotos/bolo.1.jpg)no-repeat ;
+      
 }
 .dish {
     display: flex;
@@ -105,3 +105,4 @@
     }
 
 }
+
